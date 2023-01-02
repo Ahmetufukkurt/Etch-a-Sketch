@@ -1,0 +1,28 @@
+.board {
+  width: 500px;
+  height: 500px;
+  display: grid;
+  background-color: white;
+  margin-top: 20px;
+  border: solid;
+  border-color: #fa7070;
+}
+body {
+  background-color: lightgreen;
+  text-align: center;
+  margin: 2%;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.setSize {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
+.title {
+  color: #fa7070;
+  font-weight: bold;
+  font-variant: small-caps;
+}
